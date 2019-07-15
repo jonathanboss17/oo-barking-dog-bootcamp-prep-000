@@ -18,5 +18,6 @@ class Dog
   
 end
 
-shane = Dog.new("Shane")
-shane.bark
+fido = Dog.new
+fido.name = "Fido"
+puts fido.name
