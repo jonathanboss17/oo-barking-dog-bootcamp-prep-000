@@ -19,4 +19,4 @@ class Dog
 end
 
 shane = Dog.new("Shane")
-puts shane.name
+shane
